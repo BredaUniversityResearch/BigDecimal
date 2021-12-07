@@ -1,0 +1,22 @@
+{
+    "name": "nl.buas.cradle.bigdecimal",
+    "version": "0.1.0",
+    "description": "An arbitrary sized rational number for use with Unity.",
+    "displayName": "BigDecimal",
+    "unity": "2017.1",
+    "documentationUrl": "https://github.com/BredaUniversityResearch/BigDecimal",
+    "changelogUrl": "https://github.com/BredaUniversityResearch/BigDecimal",
+    "licenseUrl": "https://github.com/BredaUniversityResearch/BigDecimal",
+    "dependencies": {
+
+    },
+    "keywords": [
+        "mathematics"
+    ],
+    "author": {
+        "name": "Jeremiah van Oosten",
+        "email": "oosten.j@buas.nl",
+        "url": "https://www.buas.nl/en/research/domains/games"
+    },
+    "samples": []
+}
